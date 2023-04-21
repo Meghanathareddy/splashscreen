@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">username</string>
+    <string name="email">Email</string>
+
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="dashboardfragment1">dashboardFragment1</string>
+    <string name="dashboardfragment2">dashboardFragment2</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="get">GET</string>
+    <string name="please_wait">Please wait</string>
+    <string name="secureSigin">ScureSignIn</string>
+    <string name="secureSignin">secureSignIn</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="on">On</string>
+    <string name="off">off</string>
+    <string name="use_fingerprint">Use FingerPrint</string>
+    <string name="sigin_with_your_victoria_s_email_and_password">SigIn with your victoria\'s email and password</string>
+    <string name="registered_customer">Registered Customer</string>
+    <string name="forgotPassword">forgotPassword</string>
+    <string name="camera">camera</string>
+    <string name="imageDisplay">imageDisplay</string>
+    <string name="item">Item</string>
+    <string name="time">time</string>
+    <string name="sub_heading">sub Heading</string>
+    <string name="heading">heading</string>
+    <string name="fun_library">Fun Library</string>
+
+</resources>
